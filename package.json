@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/larryzodiac/Advanced-JavaScript/issues"
   },
-  "homepage": "https://github.com/larryzodiac/Advanced-JavaScript#readme"
+  "homepage": "https://github.com/larryzodiac/Advanced-JavaScript#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
