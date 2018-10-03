@@ -85,3 +85,27 @@ const hypotenuseRefractored = (a,b) => {
   return Math.sqrt(square(a) + square(b));
 }
 console.log(hypotenuseRefractored(4,5));
+
+// ------------------------------------------------- //
+// Refractoring Exercise 3
+// Default & Optional Parametres
+// ------------------------------------------------- //
+
+console.log('');
+console.log('// --- Exercise 3 --- //');
+
+// ------------------------------------------------- //
+// Refractoring Exercise 4
+// Rest/Spread Parametres
+// ------------------------------------------------- //
+
+console.log('');
+console.log('// --- Exercise 4 --- //');
+
+// ------------------------------------------------- //
+// Refractoring Exercise 4
+// Arrays
+// ------------------------------------------------- //
+
+console.log('');
+console.log('// --- Exercise 5 --- //');
