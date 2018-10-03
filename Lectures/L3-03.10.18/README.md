@@ -7,10 +7,8 @@ See Moz://a resource [Arrow Functions](https://developer.mozilla.org/en-US/docs/
 
 With ES6 we can implement `refractoring` techniques to older syntax.
 
-```
-Refractoring: the process of changing code without changing its external behaviour.
+> Refractoring: the process of changing code without changing its external behaviour.
 It is typically done to make code more: readable, maintainable, extensible.
-```
 
 We refractor using ES6 syntax:
 
@@ -78,7 +76,7 @@ The idea of functions as variables, being passed around.
 
 We know in JavaScript that `objects` are _datatypes_.
 
-`Functions are regular objects with the additional capability of being callable.`
+> Functions are regular objects with the additional capability of being callable.
 
 Functions therefore are datatypes and can be assigned as values.
 
