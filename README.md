@@ -54,6 +54,6 @@ During lecture 3 on 03/10/18, I got an error again while pushing to Github even 
 
 The proxy may have reset.
 
-To fix, I reset the global proxy using this [source}(https://gist.github.com/evantoli/f8c23a37eb3558ab8765).
+To fix, I reset the global proxy using this [source](https://gist.github.com/evantoli/f8c23a37eb3558ab8765).
 
 `git config --global http.proxy http://merlin:8080`
