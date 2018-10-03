@@ -1,6 +1,8 @@
 # Advanced-JavaScript
 Year 4 Advanced JavaScript Module
 
+[*This readMe.md was written using Github's markdown*](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
 ## Cloning a Repository
 
 Copy the Github repository address from the green 'clone or download' button.
@@ -45,3 +47,13 @@ Note:
 npm config set proxy http://merlin:8000
 npm config set https-proxy http://merlin:8000
 ```
+
+## Proxy on College machines
+
+During lecture 3 on 03/10/18, I got an error again while pushing to Github even though it was working the previous week.
+
+The proxy may have reset.
+
+To fix, I reset the global proxy using this [source}(https://gist.github.com/evantoli/f8c23a37eb3558ab8765).
+
+`git config --global http.proxy http://merlin:8080`
