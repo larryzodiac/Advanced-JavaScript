@@ -1,8 +1,8 @@
 # Advanced-JavaScript
 Year 4 Advanced JavaScript Module
 
-2. [Variables & Control Flow](lectures/L2-26.09.18)
-3. [Functions](lectures/L3-03.10.18)
+2. [Variables & Control Flow](Lectures/L2-26.09.18)
+3. [Functions](Lectures/L3-03.10.18)
 
 [*This readMe.md was written using Github's markdown*](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
