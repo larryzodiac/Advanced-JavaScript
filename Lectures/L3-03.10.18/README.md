@@ -66,6 +66,8 @@ const stickTogether = (first, second) => {
 
 ## Anonymous functions
 
+...
+
 <!-- setTimeOut
 Anonymous function, no name to polute the namespace.
 If named, it appears everywhere in my programme. -->
@@ -74,9 +76,9 @@ If named, it appears everywhere in my programme. -->
 
 The idea of functions as variables, being passed around.
 
-We know in JavaScript that `objects` are datatypes.
+We know in JavaScript that `objects` are _datatypes_.
 
-Functions are regular objects with the additional capability of being callable.
+`Functions are regular objects with the additional capability of being callable.`
 
 Functions therefore are datatypes and can be assigned as values.
 
@@ -99,7 +101,7 @@ function hypotenuse(a,b) {
 console.log(hypotenuse(4,5));
 ```
 
-We can refractor by assigning our functions(anonymous) to variables:
+We can refractor by assigning our functions(as anonymous) to variables:
 
 ```
 const hypotenuseRefractored = (a,b) => {
