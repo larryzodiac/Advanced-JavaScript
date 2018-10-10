@@ -1,4 +1,4 @@
-# Lecture 3 - Variables & Control Flow
+# Lecture 2 - Variables & Control Flow
 Year 4 Advanced JavaScript Module
 
 ## Variables
