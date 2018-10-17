@@ -194,7 +194,18 @@ console.log('// --- Exercise 10 --- //');
 // All previous functions have take one parametre (being a value in the array) but this acts differently
 // Taking multiple values + doing something to them + then reducing to a single value.
 const costs = [100, 200, 300];
-const reducer = function(sum, val) {
-  //
-}
-const reducePrice = costs.reduce(reducer);
+const reducePrice = costs.reduce((sum, val) => sum += val);
+console.log(reducePrice);
+
+// ------------------------------------------------- //
+// Iterators Exercise 11
+// reduce Function Activity
+// ------------------------------------------------- //
+
+console.log('');
+console.log('// --- Exercise 10 --- //');
+
+const namesList = ['Edel','Cillian','Evan'];
+// Note 0 at end
+const reducer = namesList.reduce((sum, val) => sum += val.length, 0);
+console.log(reducer);
