@@ -2,6 +2,9 @@
 // 11/11/2018
 // Evan MacHale - N00150552
 // Lecture 6
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 // ------------------------------------------------- //
 console.log('Hello lecture 6');
 
@@ -126,6 +129,7 @@ person4.hello();
 
 // ------------------------------------------------- //
 // Exercise 3
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 // ------------------------------------------------- //
 
 console.log('');
