@@ -1,5 +1,5 @@
 // ------------------------------------------------- //
-// 11/11/2018
+// 14/11/2018
 // Evan MacHale - N00150552
 // Lecture 6 - prototype example found in index.js exercise 1
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype
