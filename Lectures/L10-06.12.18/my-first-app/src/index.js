@@ -46,6 +46,8 @@ class Clicky extends React.Component {
 
   handleClick() {
     this.setState({clickCount: this.state.clickCount+1}); // React will only change h1, not entire page
+    // Set state is asynchronous, runs in backgroud
+    //
   }
 
   render() {
