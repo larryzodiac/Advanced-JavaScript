@@ -3,7 +3,9 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-app.get('/', (req, res) => res.send('Hello World!'));
+app.get('/', (req, res) => res.send('Hello World!')); // localhost:3000
+
+app.get('/api/users', (req, res) => res.send({id:1, name:'John', age:40})); // localhost:3000/api/users
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
