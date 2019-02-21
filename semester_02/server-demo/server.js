@@ -44,10 +44,18 @@ app.get('/api/users', (req, res) => {
   })
 });
 
+/*
+  Then in React
 
+  componentDidMount() {
+    axios.get('https://localhost:3000/api/users')
+    .then( response => {
+      ...
+    })
+  }
+*/
 
 /* ///////////////////////////////////////////// NOTES */
-
 
 /*
   step 1:
